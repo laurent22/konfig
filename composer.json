@@ -1,0 +1,20 @@
+{
+    "name": "laurent22/konfig",
+    "description": "Simple configuration class with support for cascading file system.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Laurent Cozic",
+            "email": "laurent@pogopixels.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+
+    },
+	"autoload": {
+    	"psr-0": {
+            "Konfig": "src/"
+        }
+    }
+}
