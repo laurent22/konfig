@@ -1,7 +1,5 @@
 <?php
 
-namespace Konfig;
-
 class Konfig {
 	
 	static private $data_ = array();

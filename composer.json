@@ -13,8 +13,6 @@
 
     },
 	"autoload": {
-    	"psr-0": {
-            "Konfig": "src/"
-        }
+    	"classmap": ["src/", "Konfig/", "Konfig.php"]
     }
 }
