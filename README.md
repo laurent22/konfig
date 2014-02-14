@@ -3,6 +3,15 @@ konfig
 
 Simple configuration class for PHP with support for cascading file system.
 
+Installation
+============
+
+Either copy the Konfig.php class or add this to `composer.json`:
+
+     require {
+     	"laurent22/konfig": "dev-master"
+     }
+
 Usage
 =====
 
